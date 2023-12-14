@@ -10,11 +10,13 @@ Personal list of applications and tools for Windows 10.
 
 ## Microsoft Store
 
+- [Microsoft Sticky Notes](https://apps.microsoft.com/detail/9NBLGGH4QGHW)
 - [Snipaste](https://apps.microsoft.com/detail/9P1WXPKB68KX)
 - [TranslucentTB](https://apps.microsoft.com/detail/9PF4KZ2VN4W9)
 - [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701)
 - [Microsoft PowerToys](https://apps.microsoft.com/detail/XP89DCGQ3K6VLD)
 - [DevToys](https://apps.microsoft.com/detail/9PGCV4V3BK4W)
+- [Thorium Reader](https://apps.microsoft.com/detail/9NFZP1G7M2SC)
 - [Spotify](https://apps.microsoft.com/detail/9NCBCSZSJRSB)
 
 ## Communication
@@ -46,13 +48,7 @@ Adobe: @vposy
 
 ### Text
 
-Read
-
 - [Adobe Acrobat Reader](https://get.adobe.com/reader)
-- [Thorium Reader](https://github.com/edrlab/thorium-reader)
-
-Write
-
 - [Typora](https://typora.io)
 - [Obsidian](https://obsidian.md/download)
 
@@ -62,7 +58,7 @@ Write
 - [Bandizip](https://www.bandisoft.com/bandizip)
 - [Everything](https://www.voidtools.com)
 - [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience)
-- [qBittorrent](https://www.qbittorrent.org/download)
+- [qBittorrent](https://sourceforge.net/projects/qbittorrent)
 - [f.lux](https://justgetflux.com)
 
 ---
