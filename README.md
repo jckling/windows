@@ -17,7 +17,6 @@ Personal list of applications and tools for Windows 10.
 - [Microsoft PowerToys](https://apps.microsoft.com/detail/XP89DCGQ3K6VLD)
 - [DevToys](https://apps.microsoft.com/detail/9PGCV4V3BK4W)
 - [Thorium Reader](https://apps.microsoft.com/detail/9NFZP1G7M2SC)
-- [Spotify](https://apps.microsoft.com/detail/9NCBCSZSJRSB)
 
 ## Communication
 
@@ -60,6 +59,7 @@ Adobe: @vposy
 - [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience)
 - [qBittorrent](https://sourceforge.net/projects/qbittorrent)
 - [f.lux](https://justgetflux.com)
+- [Digital Clock 4](https://sourceforge.net/projects/digitalclock4/files)
 
 ---
 
