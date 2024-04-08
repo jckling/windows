@@ -22,7 +22,6 @@ Personal list of applications and tools for Windows 10.
 
 - [QQ](https://im.qq.com/pcqq)
 - [WeChat](https://weixin.qq.com)
-- [Feishu](https://www.feishu.cn/download)
 - [Telegram](https://telegram.org/apps)
 
 ## Multimedia
@@ -66,6 +65,7 @@ Adobe: @vposy
 - [Unity Hub](https://unity.com/download)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Visual Studio](https://visualstudio.microsoft.com/downloads)
+- [Installing PowerShell on Windows](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows)
 - [Git](https://git-scm.com/downloads)
 - [bottom](https://github.com/ClementTsang/bottom?tab=readme-ov-file#windows-installer)
 
